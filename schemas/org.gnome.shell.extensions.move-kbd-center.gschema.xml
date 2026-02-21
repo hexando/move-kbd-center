@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.move-kbd-center" path="/org/gnome/shell/extensions/move-kbd-center/">
+    <key name="position" type="s">
+      <default>'right-edge'</default>
+      <summary>Indicator position in center box</summary>
+      <description>
+        Where to place the keyboard layout indicator inside the center box.
+        left-edge = first child, right-edge = last child.
+      </description>
+    </key>
+  </schema>
+</schemalist>

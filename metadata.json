@@ -1,0 +1,13 @@
+{
+  "uuid": "move-kbd-center@hexando",
+  "gettext-domain": "move-kbd-center@hexando",
+  "original-authors": [
+    "hexando1@gmail.com"
+  ],
+  "name": "Move Keyboard Indicator to Center",
+  "description": "Moves the GNOME input source indicator into the center box and configure position.",
+  "shell-version": ["49", "48", "47", "46"],
+  "url": "https://github.com/hexando/move-kbd-center",
+  "settings-schema": "org.gnome.shell.extensions.move-kbd-center",
+  "version": 1
+}
